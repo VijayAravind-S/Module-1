@@ -13,8 +13,8 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No- 212222060292
+# Name- Vijay Aravind S
 # Write your code here
 
 char = input("Enter a character: ")
@@ -27,5 +27,8 @@ else:
 ```
 
 ## OUTPUT
+<img width="437" height="235" alt="image" src="https://github.com/user-attachments/assets/4c2b84b0-1a0b-4181-9d6a-ff21fa03f808" />
+
 
 ## RESULT
+Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
